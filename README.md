@@ -1,5 +1,7 @@
 Note: This is an old project of mine about 7 years ago. It's also my first Python project. I'm aware that the code quality isn't great. It sucks actually...
 
+> **Laziness:** AI GENERATED CONTENT
+
 # SYSLOG CAPTURE FOR USGFW:
 
 This project is a multi-threaded and multi-process application that listens to network traffic, parses it, writes logs, and interacts with an Elasticsearch database.

@@ -1,4 +1,4 @@
-Note: This is an old project of mine about 7 years ago. It's also my first Python project.
+Note: This is an old project of mine about 7 years ago. It's also my first Python project. I'm aware that the code quality isn't great. It sucks actually...
 
 # SYSLOG CAPTURE FOR USGFW:
 
